@@ -1,0 +1,39 @@
+
+body {
+    font-family: 'Figtree', sans-serif;
+    background-color: #f4f4f4;
+}
+.navbar {
+    background-color: #007bff; /* Color del navbar */
+    padding: 1rem;
+    color: white;
+}
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    margin: 0 0.5rem;
+    border-radius: 5px;
+}
+.navbar a:hover {
+    background-color: #0056b3; /* Color al pasar el mouse */
+}
+.header {
+    background-color: #fff;
+    border-bottom: 2px solid #e5e5e5;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px 0;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.header h1 {
+    color: #333;
+}
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}

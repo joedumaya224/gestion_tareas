@@ -32,24 +32,24 @@ Asegúrate de tener instalados los siguientes programas:
      npm install
    
    
-4.**Crear una Base de Datos y ajustar las variables de conexión a la DB en el archivo .env(este archivo se debe crear copiando el archivo .env.example y despues cambiar el nombre a .env:**
+4. **Crear una Base de Datos y ajustar las variables de conexión a la DB en el archivo .env(este archivo se debe crear copiando el archivo .env.example y despues cambiar el nombre a .env:**
 
 
-5.**Debes ejecutar este comando en la terminal:**
+5. **Debes ejecutar este comando en la terminal:**
     php artisan key:generate
     
    
-6.** Levantar el servidor vite:**
+6. **Levantar el servidor vite:**
     npm run dev
 
       
-7.** Levantar el servidor de laravel en otra terminal :**
+7. **Levantar el servidor de laravel en otra terminal :**
      php artisan serve
      
      
-8.**Abrir la ruta que te da el paso anterior:**
+8. **Abrir la ruta que te da el paso anterior:**
 
-9.**Crear un usuario:**
+9. **Crear un usuario:**
      
       
   
